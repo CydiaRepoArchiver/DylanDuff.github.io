@@ -21,7 +21,7 @@ Size: 2285474
 MD5sum: 04e8749d25f6affc82228d59c5354ab7
 Description: LockInternals LockHTML
 name: LockInternals
-depiction: http://dylanduff.github.io/repo/depictions/com.dylanduff.LockInternals/index.html
+depiction: .//depictions/com.dylanduff.LockInternals/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.NextGenConvergance
@@ -34,7 +34,7 @@ Size: 1093378
 MD5sum: c1f02c955bae8358ead9f0872a822c69
 Description: NextGenConvergance Theme
 name: NextGenConvergance
-depiction: http://dylanduff.github.io/repo/depictions/com.dylanduff.NextGenConvergance/index.html
+depiction: .//depictions/com.dylanduff.NextGenConvergance/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.SetupTeam.MIUiOS
@@ -47,5 +47,5 @@ Size: 1373410
 MD5sum: 1287d07f9e5ee110cda1c4e253d2dadb
 Description: MIUiOS Theme
 name: MIUiOS
-depiction: http://dylanduff.github.io/com.SetupTeam.MIUiOS/index.html
+depiction: .//com.SetupTeam.MIUiOS/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
