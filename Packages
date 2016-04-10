@@ -3,12 +3,12 @@ Version: 1.1
 Section: Themes
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
-Filename: .//debs/com.dylanduff.Primum.deb
+Filename: ../debs/com.dylanduff.Primum.deb
 Size: 3198606
 MD5sum: f91b21a351c4a9e862ec7bd5f24983cf
 Description: Primum - Latin for first.
 name: Primum
-depiction: .//depictions/com.dylanduff.Primum/index.html
+depiction: ../depictions/com.dylanduff.Primum/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.LockInternals
@@ -16,12 +16,12 @@ Version: 1.0
 Section: LockHTML
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
-Filename: .//debs/com.dylanduff.LockInternals.deb
+Filename: ../debs/com.dylanduff.LockInternals.deb
 Size: 2285474
 MD5sum: 04e8749d25f6affc82228d59c5354ab7
 Description: LockInternals LockHTML
 name: LockInternals
-depiction: .//depictions/com.dylanduff.LockInternals/index.html
+depiction: ../depictions/com.dylanduff.LockInternals/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.NextGenConvergance
@@ -29,12 +29,12 @@ Version: 1.0
 Section: Themes (Convergance)
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
-Filename: .//debs/com.dylanduff.NextGenConvergance.deb
+Filename: ../debs/com.dylanduff.NextGenConvergance.deb
 Size: 1093378
 MD5sum: c1f02c955bae8358ead9f0872a822c69
 Description: NextGenConvergance Theme
 name: NextGenConvergance
-depiction: .//depictions/com.dylanduff.NextGenConvergance/index.html
+depiction: ../depictions/com.dylanduff.NextGenConvergance/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.SetupTeam.MIUiOS
@@ -42,10 +42,10 @@ Version: 1.0
 Section: Themes
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
-Filename: .//debs/com.SetupTeam.MIUiOS.deb
+Filename: ../debs/com.SetupTeam.MIUiOS.deb
 Size: 1373410
 MD5sum: 1287d07f9e5ee110cda1c4e253d2dadb
 Description: MIUiOS Theme
 name: MIUiOS
-depiction: .//com.SetupTeam.MIUiOS/index.html
+depiction: ../com.SetupTeam.MIUiOS/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
