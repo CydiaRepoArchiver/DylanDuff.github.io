@@ -8,7 +8,7 @@ Size: 3198606
 MD5sum: f91b21a351c4a9e862ec7bd5f24983cf
 Description: Primum - Latin for first.
 name: Primum
-depiction: ../depictions/com.SetupTeam.Primum/index.html
+depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.Primum/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.LockInternals
@@ -21,7 +21,7 @@ Size: 2285474
 MD5sum: 04e8749d25f6affc82228d59c5354ab7
 Description: LockInternals LockHTML
 name: LockInternals
-depiction: ../depictions/com.SetupTeam.LockInternals/index.html
+depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.LockInternals/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.NextGenConvergance
@@ -34,7 +34,7 @@ Size: 1093378
 MD5sum: c1f02c955bae8358ead9f0872a822c69
 Description: NextGenConvergance Theme
 name: NextGenConvergance
-depiction: ../depictions/com.SetupTeam.NextGenConvergance/index.html
+depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.NextGenConvergance/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.MIUiOS
@@ -47,5 +47,5 @@ Size: 1373410
 MD5sum: 1287d07f9e5ee110cda1c4e253d2dadb
 Description: MIUiOS Theme
 name: MIUiOS
-depiction: ../com.SetupTeam.MIUiOS/index.html
+depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.MIUiOS/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
