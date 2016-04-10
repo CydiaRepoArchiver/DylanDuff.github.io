@@ -1,0 +1,78 @@
+Package: com.cokepokes.SmartGlass-Clip-Saver
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: deb//com.cokepokes.SmartGlass-Clip-Saver_1.0-2_iphoneos-arm.deb
+Size: 226870
+MD5sum: 7d02417980a83955ef778def1982a7a7
+SHA1: c6385a5c52e9c940d5b35f2ac53e5231eee7777e
+SHA256: bc3d5dde10c8ef7941f8ea38bbc4958ebee589500858a0a631b7d3a46493266b
+Section: Tweaks
+Priority: optional
+Description: Download & save SmartGlass game clips to camera roll.
+Tag: purpose::extension
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: SmartGlass Clip Saver
+
+Package: com.cokepokes.Snapchat-Volume-Statusbar
+Version: 0.6-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb//com.cokepokes.Snapchat-Volume-Statusbar_0.6-1_iphoneos-arm.deb
+Size: 23102
+MD5sum: 5abbbd9bda146b4cc0b05808a003ad0d
+SHA1: f5a60db48f708f898f08d5a6477ee882be846ecb
+SHA256: 92ecc4081abc974634fa825274e82a39b6a7a816f4174625cfd708475fa6f7b8
+Section: Tweaks
+Priority: optional
+Description: A fucking awesome mobile substrate tweak!
+Author: CokePokes
+Name: Snapchat Volume Statusbar
+
+Package: com.cokepokes.libphantom
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 23111
+Depends: firmware (>= 7.0)
+Filename: deb//com.cokepokes.libphantom_1.0-5_iphoneos-arm.deb
+Size: 12245504
+MD5sum: 45a20860c6265ef4f5919dfad80e3d46
+SHA1: 30bbd2b7e5799f3f588dd1e3f20b9c957a10c119
+SHA256: ddb51be4bd9dc7251f4e5000bf9e8b0187189d77d60ffe3b90902d0c015fa920
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
+Description: Developer Libraries for Phantom tweak
+Tag: role::developer, purpose::library, cydia::obsolete
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
+Dev: cokepokes
+Name: libPhantom
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.phantom
+Version: 4.5.10-11
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 6411
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
+Filename: deb//com.cokepokes.phantom_4.5.10-11_iphoneos-arm.deb
+Size: 9090400
+MD5sum: 36eac12e7ff1d326c63f385677842d36
+SHA1: 334c840e3bbe568b57e4c13785084ee480496e6a
+SHA256: a427182125b510d69155b456b3d0046f0ef32f6981a150dbcf3efe0eb0598213
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Description: Break nearly all of Snapchat's limits
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phantom.bundle/phantomIcon@2x.png
+Name: Phantom for Snapchat
+Sponsor: thebigboss.org <http://thebigboss.org>
+

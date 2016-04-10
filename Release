@@ -1,0 +1,14 @@
+Origin: Dylan
+
+Label: Dylan Duff's Repo
+Suite: stable
+
+Version: 1.0
+
+Codename: Dylan Duff's Repo
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Dylan's Cydia Repository
