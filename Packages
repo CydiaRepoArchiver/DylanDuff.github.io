@@ -42,10 +42,10 @@ Version: 1.0
 Section: Themes
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs/com.SetupTeam.MIUiOS.deb
+Filename: debs//com.SetupTeam.MIUiOS.deb
 Size: 1373410
 MD5sum: 1287d07f9e5ee110cda1c4e253d2dadb
 Description: MIUiOS Theme
 name: MIUiOS
-depiction: depiction/com.SetupTeam.MIUiOS/index.html
+depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.MIUiOS/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
