@@ -8,7 +8,7 @@ Size: 3198606
 MD5sum: f91b21a351c4a9e862ec7bd5f24983cf
 Description: Primum - Latin for first.
 name: Primum
-depiction: http://dylanduff.github.io/repo/depictions/com.dylanduff.Primum/index.html
+depiction: .//depictions/com.dylanduff.Primum/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.LockInternals
