@@ -56,8 +56,8 @@ Section: Custom Covers
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
 Filename: .//debs/com.dylanduff.DD-CC-P1.deb
-Size: 1184890
-MD5sum: BF6F15704B51B2A660CD12792C227201
+Size: 1187562 
+MD5sum: bf6f15704b51b2a660cd12792c227201
 Description: A Custom Covers Pack
 name: DD-CC-P1
 depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.DD-CC-P1/index.html
