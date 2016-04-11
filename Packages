@@ -58,7 +58,7 @@ Architecture: iphoneos-arm
 Filename: .//debs/com.dylanduff.DD-CC-P1.deb
 Size: 1130
 MD5sum: BF6F15704B51B2A660CD12792C227201
-Description: MIUiOS Theme
-name: MIUiOS
+Description: A Custom Covers Pack
+name: DD-CC-P1
 depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.DD-CC-P1/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
