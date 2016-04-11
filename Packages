@@ -49,3 +49,16 @@ Description: MIUiOS Theme
 name: MIUiOS
 depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.MIUiOS/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
+
+Package: com.dylanduff.DD-CC-P1
+Version: 1.0
+Section: Custom Covers
+Maintainer: Dylan Duff <dylanduff00@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.dylanduff.DD-CC-P1.deb
+Size: 1130
+MD5sum: BF6F15704B51B2A660CD12792C227201
+Description: MIUiOS Theme
+name: MIUiOS
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.DD-CC-P1/index.html
+author: Dylan Duff <dylanduff00@gmail.com>
