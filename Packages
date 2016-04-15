@@ -50,19 +50,6 @@ name: MIUiOS
 depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.MIUiOS/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
-Package: com.dylanduff.DD-CC-P1
-Version: 1.0
-Section: Custom Covers
-Maintainer: Dylan Duff <dylanduff00@gmail.com>
-Architecture: iphoneos-arm
-Filename: .//debs/com.dylanduff.DD-CC-P1.deb
-Size: 1187562 
-MD5sum: bf6f15704b51b2a660cd12792c227201
-Description: A Custom Covers Pack
-name: DD-CC-P1
-depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.DD-CC-P1/index.html
-author: Dylan Duff <dylanduff00@gmail.com>
-
 Package: com.dylanduff.DD-CC-P2
 Version: 1.0
 Section: Custom Covers
