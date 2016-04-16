@@ -51,7 +51,7 @@ depiction: http://dylanduff.github.io/repo/depiction/com.SetupTeam.MIUiOS/index.
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.dylanduff.DD-CC-P2
-Version: 1.0
+Version: 2.0
 Section: Custom Covers
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
