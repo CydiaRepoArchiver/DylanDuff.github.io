@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <title>My App</title>
+    <title>Dylan's Repo</title>
     <!-- Path to Framework7 Library CSS-->
     <link rel="stylesheet" href="css/framework7.ios.min.css">
     <!-- Path to your custom app styles-->
@@ -24,8 +24,7 @@
         <div class="navbar">
           <div class="navbar-inner">
             <div class="center sliding">Dylan Duff's Repo</div>
-            <div class="right"><a href="#" class="link icon-only open-panel"> <i class="icon icon-bars"></i></a></div>
-          </div>
+            </div>
         </div>
         <!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes-->
         <div class="pages navbar-through toolbar-through">
@@ -36,63 +35,47 @@
               <div class="content-block">
                 <div class="content-block-inner">
 
-	        <p>This repository contains themes for a bunch of different aspects of iOS, packages here require jailbroken iOS devices. If you’re on a jailbroken device, <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://dylanduff.github.io/repo/">
-		tap to add this repo to Cydia™ </a>.</p>
+	        <p>This repository contains themes for a bunch of different aspects of iOS, packages here require jailbroken iOS devices.</p>
 	        
                 </div>
               </div>
               <div class="list-block">
                 <ul>
-                  <li><a href="#" data-template="about" data-context-name="about" class="item-link item-content">
+                  <li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://dylanduff.github.io/repo/" class="item-link item-content external">
                       <div class="item-inner"> 
-                        <div class="item-title">About Me</div>
+                        <div class="item-title">Add this Repository to Cydia</div>
                       </div></a></li>
+		  
                   <li><a href="projects.html" class="item-link item-content">
                       <div class="item-inner"> 
                         <div class="item-title">My Projects</div>
                       </div></a></li>
-                  <li><a href="cars.html" data-context-name="cars" class="item-link item-content">
+		  
+                  <li><a href="https://paypal.me/Dylan767" class="item-link item-content external">
                       <div class="item-inner">
                         <div class="item-title">Donate</div>
                       </div></a></li>
-                  <li><a href="contacts.html" class="item-link item-content">
+		  
+                  <li><a href="mailto:dyladuff00@gmail.com" class="item-link item-content external">
                       <div class="item-inner">
                         <div class="item-title">Contact</div>
                       </div></a></li>
                 </ul>
               </div>
-              <div class="content-block-title">My Themes</div>
+              <div class="content-block-title">My Social Links</div>
               <div class="content-block">
-                <div class="row">
+                
+
+	      <a href="https://twitter.com/DylanDuff3" class="external"><img src="twitter.png" style="width: 5%; border-radius: 18px;" ></a>
+	      <a href="https://github.com/DylanDuff" class="external"><img src="github.png"  style="width: 5%; border-radius: 18px; margin-left:1%;" ></a>
+	      <a href="http://reddit.com/u/DylanDuff_" class="external"><img src="reddit.png"  style="width: 5%; border-radius: 18px; margin-left:1%;" ></a>
+	      
                 </div>
               </div>
             </div>
           </div>
         </div>
-      
-    <!-- Template7 templates-->
-    <script type="text/template7" id="about">
-      <div class="navbar">
-        <div class="navbar-inner">
-          <div class="left sliding"><a href="#" class="back link"> <i class="icon icon-back"></i><span>Back</span></a></div>
-          <div class="center sliding">About Me</div>
-          <div class="right"><a href="#" class="link icon-only open-panel"> <i class="icon icon-bars"></i></a></div>
-        </div>
-      </div>
-      <div class="pages">
-        <div data-page="about" class="page">
-          <div class="page-content">
-            <div class="content-block">
-              <div class="content-block-inner">
-                <p>Hello, my name is {{name}}. I am {{age}} years old and i am working as {{position}} at {{company}}.</p>
-                <p>I have a lot of interests: {{#if interests}}{{join interests delimeter=", "}}{{/if}}</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </script>
-    
+
     
     <!-- Path to Framework7 Library JS-->
     <script type="text/javascript" src="js/framework7.min.js"></script>
