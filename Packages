@@ -68,7 +68,7 @@ Version: 1.0
 Section: Anemone HTML Wallpapers 
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
-Filename: .//debs/com.dylanduff.DD-CC-P2.deb
+Filename: .//debs/com.dylanduff.AnemoneSide.deb
 Size: 1187514 
 MD5sum: daf9cc1316ddbdecc3e0d58fe53df87e
 Description: SideSBHTML Ported for Anemone 
