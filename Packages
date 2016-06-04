@@ -76,4 +76,17 @@ name: AnemoneSideSBHTML
 depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.AnemoneSide/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
+Package: com.dylanduff.TenPlayPatch
+Version: 1.0
+Section: Tweaks
+Maintainer: Dylan Duff <dylanduff00@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.dylanduff.tenplaypatch_0.0.1-1_iphoneos-arm.deb
+Size: 2984
+MD5sum: f3c15d4609102b99d4b6821081789fe3
+Description: Patch Jailbreak detection on the Ten Play App 
+name: TenPlay Patch
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.TenPlayPatch/index.html
+author: Dylan Duff <dylanduff00@gmail.com>
+
 
