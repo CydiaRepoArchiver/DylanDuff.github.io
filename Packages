@@ -94,7 +94,7 @@ Version: 1.0
 Section: iWidgets
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
-Filename: .//debs/com.dylanduff.Revamp
+Filename: .//debs/com.dylanduff.Revamp.deb
 Size: 155536 
 MD5sum: 159e972f3eae1ebadea4c92473a8ac48
 Description: A Full Page iWidget 
