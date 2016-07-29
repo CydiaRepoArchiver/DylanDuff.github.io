@@ -89,4 +89,17 @@ name: TenPlay Patch
 depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.TenPlayPatch/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
+Package: com.dylanduff.revamp
+Version: 1.0
+Section: iWidgets
+Maintainer: Dylan Duff <dylanduff00@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.dylanduff.Revamp
+Size: 155536 
+MD5sum: 159e972f3eae1ebadea4c92473a8ac48
+Description: A Full Page iWidget 
+name: Revamp
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.Revamp/index.html
+author: Dylan Duff <dylanduff00@gmail.com>
+
 
