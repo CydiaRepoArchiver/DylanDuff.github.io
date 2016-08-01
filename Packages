@@ -115,4 +115,17 @@ name: Hotline (BETA)
 depiction: http://dylanduff.github.io/repo/depiction/com.521x.hotline-beta/index.html
 author: 521x <>
 
+Package: com.dylanduff.SimplisticPageDots
+Version: 1.0
+Section: Themes
+Maintainer: Dylan Duff <dylanduff00@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.dylanduff.SimplisticPageDots.deb
+Size: 8994
+MD5sum: e6d72463094f594de98021459702c6f0
+Description: A Simple Page Dots theme for use with Anemone
+name: Simplistic Page Dots
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.SimplisticPageDots/index.html
+author: Dylan Duff <dylanduff00@gmail.com>
+
 
