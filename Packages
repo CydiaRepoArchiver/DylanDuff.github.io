@@ -103,7 +103,7 @@ depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.Revamp/index.
 author: Dylan Duff <dylanduff00@gmail.com>
 
 Package: com.521x.hotline-beta
-Version: b1.0
+Version: b1.0-1
 Section: Themes
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
