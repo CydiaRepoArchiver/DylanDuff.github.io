@@ -108,8 +108,8 @@ Section: Themes
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
 Filename: .//debs/com.521x.hotline-beta.deb
-Size: 186082
-MD5sum: 153a9a5e53a9fda794b58ad122736b70
+Size: 209236
+MD5sum: 0a08dd82b1e2d9ac9a3547cb446c3a9a
 Description: Hotline Theme Beta 
 name: Hotline (BETA)
 depiction: http://dylanduff.github.io/repo/depiction/com.521x.hotline-beta/index.html
