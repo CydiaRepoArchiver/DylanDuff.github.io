@@ -128,4 +128,15 @@ name: Simplistic Page Dots
 depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.SimplisticPageDots/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
-
+Package: com.dylanduff.Nine
+Version: 1.0
+Section: Themes
+Maintainer: Dylan Duff <dylanduff00@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.dylanduff.Nine.deb
+Size: 13150
+MD5sum: 86a7dfb96eb1453f5789518e465ccdc8
+Description: A Remote Message Theme to be Used with my Client
+name: Simplistic Page Dots
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.Nine/index.html
+author: Dylan Duff <dylanduff00@gmail.com>
