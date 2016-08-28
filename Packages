@@ -140,3 +140,16 @@ Description: A Remote Message Theme to be Used with my Client
 name: Nine - Remote Messages Theme
 depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.Nine/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
+
+Package: com.dylanduff.euphoria
+Version: 1.0
+Section: iWidgets
+Maintainer: Dylan Duff <dylanduff00@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.dylanduff.euphoria.deb
+Size: 3764878
+MD5sum: d136ecce3f65027622db27c5687f106c
+Description: An iWidget
+name: Euphoria
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.euphoria/index.html
+author: Dylan Duff <dylanduff00@gmail.com>
