@@ -141,15 +141,28 @@ name: Nine - Remote Messages Theme
 depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.Nine/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
 
-Package: com.dylanduff.euphoria
+Package: com.dylanduff.clarity
 Version: 1.0
-Section: iWidgets
+Section: XenHTML
 Maintainer: Dylan Duff <dylanduff00@gmail.com>
 Architecture: iphoneos-arm
 Filename: .//debs/com.dylanduff.euphoria.deb
-Size: 3764878
-MD5sum: d136ecce3f65027622db27c5687f106c
-Description: An iWidget
-name: Euphoria
-depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.euphoria/index.html
+Size: 102780
+MD5sum: f93fdb5f7567af8b10733e190eb7a04c
+Description: Some XenHTML
+name: Clarity
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.clarity/index.html
+author: Dylan Duff <dylanduff00@gmail.com>
+
+Package: com.dylanduff.cleanaf
+Version: 1.0
+Section: XenHTML
+Maintainer: Dylan Duff <dylanduff00@gmail.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.dylanduff.CleanAF.deb
+Size: 235132
+MD5sum: 1e6bd54b54cb07bd525822bc59177570
+Description: Some XenHTML
+name: CleanAF
+depiction: http://dylanduff.github.io/repo/depiction/com.dylanduff.cleanaf/index.html
 author: Dylan Duff <dylanduff00@gmail.com>
